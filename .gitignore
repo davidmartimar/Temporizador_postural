@@ -1,0 +1,21 @@
+# Archivos Python cache
+__pycache__/
+*.py[cod]
+
+# Archivos compilados
+*.exe
+*.dll
+*.so
+
+# Directorios de build
+build/
+dist/
+*.spec
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de entorno o IDE
+.env
+.vscode/
