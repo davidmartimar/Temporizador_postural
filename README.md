@@ -32,7 +32,6 @@ temporizador-postural/
 ├── temporizador_postural.py
 ├── README.md
 ├── requirements.txt
-└── captura_interfaz.png  # (opcional)
 ```
 
 ## 📄 Licencia
